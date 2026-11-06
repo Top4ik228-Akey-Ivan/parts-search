@@ -3,6 +3,9 @@
 Клиентское приложение на React для подбора запчастей и аналогов через API
 [Favorit Parts «Проценка»](https://lk.favorit-parts.ru/static/wsprice.pdf).
 
+Демо приложения:
+https://top4ik228-akey-ivan.github.io/parts-search/
+
 ## Как это работает
 
 1. **Этап 1.** Пользователь вводит артикул и нажимает «Найти» (или Enter).
